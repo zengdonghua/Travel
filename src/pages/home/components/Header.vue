@@ -52,7 +52,7 @@ export default{
       font-size: .45rem
     input
       margin .1rem 0 0 .5rem
-      width: 90%
+      width: 85%
   .header-right
     width: 1.24rem
     float: right
